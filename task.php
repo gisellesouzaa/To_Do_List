@@ -1,5 +1,5 @@
 <?php
-class Task
+class Task //Equivalente a Model
 {
     private $taskId;
     private $task;

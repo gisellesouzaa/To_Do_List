@@ -1,7 +1,7 @@
 <?php
 
     //inclusão dos scripts necessários:
-    require_once "task_model.php";
+    require_once "task.php";
     require_once "task_service.php";
     require_once "connection.php";
 
